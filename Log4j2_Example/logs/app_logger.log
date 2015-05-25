@@ -1,0 +1,5 @@
+2015-05-25 01:16:07,628 INFO Demo [main] Info : info text is salam
+2015-05-25 01:16:07,630 WARN Demo [main] Warning : warning text is salam
+2015-05-25 01:16:07,630 DEBUG Demo [main] Debug : debug text is salam
+2015-05-25 01:16:07,631 ERROR Demo [main] Error : error text is salam
+2015-05-25 01:16:07,631 FATAL Demo [main] Fatal : fatal text is salam
